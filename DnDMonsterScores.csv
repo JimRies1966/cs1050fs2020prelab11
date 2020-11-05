@@ -1,4 +1,4 @@
-ï»¿Name,AC,HP,STR,DEX,CON,INT,WIS,CHA
+Name,AC,HP,STR,DEX,CON,INT,WIS,CHA
 Frog,11,1,1,13,8,1,8,3
 Sea Horse,11,1,1,12,8,1,10,2
 Shrieker,5,13,1,1,10,1,10,3
@@ -427,3 +427,4 @@ Silver Dragon -  Ancient,22,487,30,10,29,18,15,23
 Gold Dragon -  Ancient,22,546,30,14,29,18,17,28
 Red Dragon -  Ancient,22,546,30,10,29,18,15,23
 Tarrasque,25,676,30,11,30,3,11,11
+ÿ
